@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhankar Chakrborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Embedded GIF">
+ <img align="center" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Embedded GIF">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankar-chakrborty-au52&label=Profile%20views&color=0e75b6&style=flat" alt="subhankar-chakrborty-au52" /> </p>
 
