@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhankar Chakrborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+ <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Embedded GIF">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankar-chakrborty-au52&label=Profile%20views&color=0e75b6&style=flat" alt="subhankar-chakrborty-au52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankar-chakrborty-au52" alt="subhankar-chakrborty-au52" /></a> </p>
